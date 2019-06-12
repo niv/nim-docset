@@ -13,12 +13,12 @@
         "div#9>dl.item>dt>pre>a>span.Identifier:nth-child(1)":"Value",
         "div#10>dl.item>dt>pre>a>span.Identifier:nth-child(1)":"Constant",
         "div#12>dl.item>dt>pre>a>span.Identifier:nth-child(1)":"Procedure",
-        "div#13>dl.item>dt>pre>a>span.Identifier:nth-child(1)":"Method",
-        "div#14>dl.item>dt>pre>a>span.Identifier:nth-child(1)":"Provider",
-        "div#15>dl.item>dt>pre>a>span.Identifier:nth-child(1)":"Modifier",
-        "div#16>dl.item>dt>pre>a>span.Identifier:nth-child(1)":"Macro",
-        "div#17>dl.item>dt>pre>a>span.Identifier:nth-child(1)":"Shortcut",
-        "div#18>dl.item>dt>pre>a>span.Identifier:nth-child(1)":"Shortcut"
+        "div#13>dl.item>dt>pre>a>span.Identifier:nth-child(1)":"Function",
+        "div#14>dl.item>dt>pre>a>span.Identifier:nth-child(1)":"Method",
+        "div#15>dl.item>dt>pre>a>span.Identifier:nth-child(1)":"Iterator",
+        "div#16>dl.item>dt>pre>a>span.Identifier:nth-child(1)":"Converter",
+        "div#17>dl.item>dt>pre>a>span.Identifier:nth-child(1)":"Macro",
+        "div#18>dl.item>dt>pre>a>span.Identifier:nth-child(1)":"Template"
     },
     "ignore": [],
     "icon32x32": "logo.jpg",
